@@ -9,7 +9,8 @@ A lightweight Notepad-like text editor built with Java Swing.
 ##  Features
 - Text editing area with scroll support  
 - **File Menu**: New, Open, Save, Save As, Exit  
-- **Edit Menu**: Cut, Copy, Paste  
+- **Edit Menu**: Cut, Copy, Paste
+- **Format Menu**: Change color, Change font
 - **Help Menu**: About dialog with developer info  
   
 
